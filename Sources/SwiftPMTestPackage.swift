@@ -1,7 +1,5 @@
+public struct SwiftPMTestPackage {
 
-import UIKit
-
-struct SwiftPMTestPackage {
-
-    var text = "Hello, World!"
+    public var text = "Hello, World!"
+ public init(){}
 }
